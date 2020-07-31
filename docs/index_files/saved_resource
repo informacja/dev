@@ -1,0 +1,376 @@
+    
+
+<!DOCTYPE html>
+<html site-mode="en" mode="production" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="dns-prefetch preconnect" href="https://assets.xmind.net">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="author" content="XMind Ltd.">
+    <!-- 360 browser and etc ... support webkit.-->
+    <meta name="renderer" content="webkit">
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                    <title>Moja ścieżka programisty - XMind - Mind Mapping Software</title>
+        
+        
+        
+        
+        
+                        <meta name="description" content="XMind is the most professional and popular mind mapping tool. Millions of people use XMind to clarify thinking, manage complex information, brainstorming, get work organized, remote and work from home WFH.">
+        
+        
+        
+        
+        
+        
+                        <meta name="keywords" content="XMind,mindmap,mind map,mind mapping,mind mapping software,free mind mapping software,work from home,WFH,remote">
+        
+        
+        
+        
+        
+    
+
+    <link rel="stylesheet" href="https://assets.xmind.net/www/assets/vendor/css/bootstrap-customized-dced49f1d5.min.css">
+    <link rel="stylesheet" href="https://assets.xmind.net/www/assets/vendor/js/text-autospace/text-autospace-d1ab216252.css">
+    <link href="https://fonts.googleapis.com/css?family=Barlow:400,500,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://assets.xmind.net/www/assets/vendor/fonts/xm-icons/style-383230e0b1.css">
+    <link rel="stylesheet" href="https://assets.xmind.net/www/styles/index-50a496ef61.css">
+    <script src="https://assets.xmind.net/www/assets/vendor/js/jquery-3-c9f5aeeca3.2.1.min.js"></script>
+
+    <!-- Standard iPhone -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png"/>
+    <!-- Retina iPhone -->
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png"/>
+    <!-- Standard iPad -->
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png"/>
+    <!-- Retina iPad -->
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png"/>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-6267030-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || []
+
+            function gtag () {dataLayer.push(arguments)}
+
+            gtag('js', new Date())
+
+            gtag('config', 'UA-6267030-1')
+        </script>
+
+
+
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="" />
+        <meta property="og:image" content="https://s3.amazonaws.com/xmindshare/previews/ye4RXb-BJDUp1c-93440.png">
+        <meta property="og:title" content="Moja ścieżka programisty">
+        <meta property="og:description" content="">
+        <meta property="og:url" content="https://xmind.net/m/ye4RXb/">
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="https://xmind.net/m/ye4RXb/">
+        <!--<meta name="twitter:creator" content="@_xmind_vFpnwJEuHK">-->
+        <meta name="twitter:title" content="Moja ścieżka programisty">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="https://s3.amazonaws.com/xmindshare/previews/ye4RXb-BJDUp1c-93440.png">
+
+        <!--<meta property="article:published_time" content="2020-07-30T18:20:37.772Z" />-->
+        <!--<meta property="article:author" content="_xmind_vFpnwJEuHK" />-->
+
+        <link rel="stylesheet" href="https://assets.xmind.net/www/styles/pages/share-map-e05ca8c0de.css">
+
+
+</head>
+<body>
+    
+        
+        <div id="share-map" class="share-map ">
+            <div id="content" class="share-map__content">
+                <div class="share-map__loading invisible">
+                    <video autoplay muted preload playsinline loop class="mindmap-loading-animate" style="max-width: 240px;">
+                        <source src="https://assets.xmind.net/www/assets/videos/animate/structure-loading-animate-ec6aa8c56e.mp4" type="video/mp4">
+                        <i class="fas fa-spinner fa-pulse"></i>
+                    </video>
+                    <img class="d-none" data-src="https://assets.xmind.net/www/assets/videos/animate/structure-loading-animate-08d3b453a2.gif" src="#" style="width: 240px" alt="XMind loading animation."/>
+                    <div>
+                        Loading
+                        <span class="dot-animate"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="share-map__menu container-fluid">
+                <div class="share-map__menu-info row align-items-center">
+                    <div class="col-12 mt-4">
+                        <h5 class="mb-2 share-map__topic">
+                            Moja ścieżka programisty
+                        </h5>
+                    </div>
+        
+                        <div class="col-12 d-flex justify-content-between">
+                            <a class="share-map__author mr-3 d-inline-block" href="/share/_xmind_vFpnwJEuHK/" title="vFpnwJEuHK">
+                                vFpnwJEuHK
+                            </a>
+                            <span class="share-map__publish-data"> Jul 30, 2020 </span>
+                        </div>
+                        <div class="col-12 mt-4 d-flex justify-content-between align-items-center">
+                            <div class="share-map__menu-share d-inline-block">
+                                <a id="embed-share" href="#" class="code mr-3">
+                                    <span class="icon-code"></span>
+                                </a>
+                                <a id="facebook-share" href="#" class="facebook mr-3">
+                                    <span class="icon-facebook"></span>
+                                </a>
+                                <a id="twitter-share" href="#" class="twitter mr-3">
+                                   <span class="icon-twitter"></span>
+                                </a>
+                                <a id="linkedin-share" href="#" class="linkedin mr-3">
+                                    <span class="icon-linkedin"></span>
+                                </a>
+                            </div>
+                            <button class="btn btn-outline-primary btn-sm share-map__btn-downloads">Download</button>
+                        </div>
+                        <div class="mt-3 share-map__menu-info-border d-none d-md-inline-block"></div>
+                </div>
+                <div class="share-map__menu-outline row">
+                    <div class="col-12 flex-shrink-0 justify-content-center align-items-center share-map__menu-outline-switcher">
+                        Map Outline
+                        <span class="icon-chevron-up ml-1"></span>
+                        <span class="icon-chevron-down ml-1"></span>
+                    </div>
+                    <div class="col-12 share-map__outline-wrapper">
+                        <div class="d-block d-md-none mt-4 mb-2">
+                            <h5 class="share-map__topic">
+                                Moja ścieżka programisty
+                            </h5>
+                        </div>
+                        <div class="d-block d-md-none share-map__outline-border"></div>
+        
+                        <div class="share-map__outline-contents">
+                            <ol>
+        				<li>
+        					<span>Projekt szafki sciennej</span>
+        					<ol>
+        						<li><span>Motwywator do napisana pierwszego programu</span></li><li><span>Pierwsza linia kodu 2 tygodnie przed technikum</span></li><li><span>Projekt trwał 3 miesiące, program był rozwijany przez 4 lata</span></li>
+        					</ol>
+        				</li>
+        		
+        				<li>
+        					<span>Mirosław Zelent</span>
+        					<ol>
+        						<li><span>Kurs C++</span></li><li><span>Materiały przerobiłem w 1 rok technikum</span></li>
+        					</ol>
+        				</li>
+        		
+        				<li>
+        					<span>ZST Mościce</span>
+        					<ol>
+        						
+        				<li>
+        					<span>Pan Paweł Piątek</span>
+        					<ol>
+        						<li><span>3 lata wsparcia w technikum</span></li>
+        					</ol>
+        				</li>
+        		
+        				<li>
+        					<span>MDB</span>
+        					<ol>
+        						<li><span>katalog.zst</span></li>
+        					</ol>
+        				</li>
+        		
+        					</ol>
+        				</li>
+        		
+        				<li>
+        					<span>PWSZtar.pl</span>
+        					<ol>
+        						
+        				<li>
+        					<span>Przedmioty</span>
+        					<ol>
+        						
+        				<li>
+        					<span>Język</span>
+        					<ol>
+        						<li><span> C (wdrażanie/inplementacja)</span></li><li><span>Matlab (prototypowanie)</span></li>
+        				<li>
+        					<span>Skrypowy</span>
+        					<ol>
+        						<li><span>TypeScript</span></li><li><span>Python</span></li>
+        					</ol>
+        				</li>
+        		
+        					</ol>
+        				</li>
+        		<li><span>Ekonometria</span></li><li><span>Paradygmaty programowania</span></li>
+        				<li>
+        					<span>Symulatory Systemów Dynamicznych</span>
+        					<ol>
+        						<li><span>Sygnał</span></li><li><span>Obiekt</span></li><li><span>Model</span></li>
+        					</ol>
+        				</li>
+        		<li><span>BazyDanych</span></li><li><span>Cyfrowe Przetwarzanie Sygnałów</span></li><li><span>Komputerowe Systemy Sterowania </span></li>
+        					</ol>
+        				</li>
+        		
+        				<li>
+        					<span>Projekty</span>
+        					<ol>
+        						<li><span>EMG</span></li><li><span>Graph Creator</span></li><li><span>M-Book</span></li>
+        					</ol>
+        				</li>
+        		
+        					</ol>
+        				</li>
+        		
+        				<li>
+        					<span>Przyszłość</span>
+        					<ol>
+        						
+        				<li>
+        					<span>Projekty</span>
+        					<ol>
+        						<li><span>EMG</span></li><li><span>Wod20</span></li>
+        					</ol>
+        				</li>
+        		
+        					</ol>
+        				</li>
+        		<li><span>Main Topic 6</span></li></ol>
+                        </div>
+                            <div class="share-map__menu-more pb-4 my-5 mb-5 mb-md-2">
+                                <div class="share-map__menu-more-title">
+                                    More Maps From User
+                                </div>
+                                <div class="share-map__menu-more-container">
+                                        <div class="share-map__more-cell">
+                                            <a href="/m/z6NQwt/" title="Moja ścieżka programisty" >
+                                                <img src="https://s3.amazonaws.com/xmindshare/previews/z6NQwt-GyAjko0-09573.png" alt="Moja ścieżka programisty" crossorigin="anonymous">
+                                            </a>
+                                        </div>
+                                        <div class="share-map__more-cell">
+                                            <a href="/m/icAVUE/" title="MBookNuxtStructvue" >
+                                                <img src="https://s3.amazonaws.com/xmindshare/previews/icAVUE-iRcn87I-93799.png" alt="MBookNuxtStructvue" crossorigin="anonymous">
+                                            </a>
+                                        </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        
+                <!--menu outline control-->
+                <div class="share-map__menu-control d-flex justify-content-center align-items-center">
+                    <span class="icon-outline"></span>
+                </div>
+        
+                    <a class="share-map__go-home-control d-flex justify-content-center align-items-center text-dark" href="//xmind.net/share">
+                        <span class="icon-gallery"></span>
+                    </a>
+        
+            <div class="share-map__embed" style="display: none">
+                <div class="share-map__embed-dialog">
+                    <div class="share-map__embed-head">
+                        <span class="icon-cross"></span>
+                    </div>
+                    <div class="share-map__embed-body form-group">
+                        <label for="embed-code-textarea">Embed Code</label>
+                        <textarea id="embed-code-textarea" class="d-block w-100 form-control" spellcheck="false"></textarea>
+                        <small class="form-text text-muted">Copy the code to embed this map into your article. The embeded map can even be zoomed in / out</small>
+                    </div>
+                    <div class="share-map__embed-footer text-right">
+                        <button class="share-map__embed-copy btn btn-primary">
+                            COPY TO CLIPBOARD
+                        </button>
+                    </div>
+                </div>
+                </div>
+                <div class="share-map__zoom-control"></div>
+            <div class="share-map__share-mask"></div>
+            <div class="share-map__menu-mask"></div>
+            <div class="share-map__outline-mask"></div>
+        </div>
+    
+    
+    
+
+<script src="https://assets.xmind.net/www/assets/vendor/js/text-autospace/text-autospace-fed758f4a6.min.js"></script>
+<script src="https://assets.xmind.net/www/assets/vendor/js/polyfill-45b9836beb.min.js"></script>
+<script src="https://assets.xmind.net/www/assets/vendor/js/js-cookie-a978ac7394.js"></script>
+<script src="https://assets.xmind.net/www/javascripts/base.d8559f76f9.js"></script>
+
+
+        <script>
+            window.sbPath = {
+                ie: [
+                    'https://assets.xmind.net/www/assets/vendor/js/snowbrush-readonly-vendor-for-ie-b9f456959f.js',
+                    'https://assets.xmind.net/www/assets/vendor/js/snowbrush-readonly-for-ie-2b0a685b1f.js',
+                ],
+                notIE: [
+                    'https://assets.xmind.net/www/assets/vendor/js/snowbrush-f94399cf91.js',
+                ]
+            }
+        </script>
+        <script src="https://assets.xmind.net/www/javascripts/share-map.c8c9426e59.js"></script>
+
+
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0]
+            if (d.getElementById(id)) return
+            js = d.createElement(s)
+            js.id = id
+            js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12'
+            fjs.parentNode.insertBefore(js, fjs)
+        }(document, 'script', 'facebook-jssdk'))
+    </script>
+
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+    <script type="text/javascript">try { clicky.init(100641202) } catch (e) {}</script>
+    <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100641202ns.gif"/></p></noscript>
+
+
+<!-- Matomo -->
+<script type="text/javascript">
+    var _paq = _paq || []
+    _paq.push(['trackPageView'])
+    _paq.push(['enableLinkTracking']);
+    (function () {
+
+
+            var u = /^(www\.|xmind\.)/.test(location.host) ? '//piwik.xmind.net/' : '//test-piwik.xmind.net/'
+
+            _paq.push(['setTrackerUrl', u + 'piwik.php'])
+            _paq.push(['setSiteId', 8])
+
+        var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0]
+        g.type = 'text/javascript'
+        g.async = true
+        g.defer = true
+        g.src = 'https://assets.xmind.net/www/assets/vendor/js/piwik-17352e8a83.js'
+        s.parentNode.insertBefore(g, s)
+    })()
+</script>
+<!-- End Matomo Code -->
+
+
+</body>
+</html>
